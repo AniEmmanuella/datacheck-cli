@@ -1,0 +1,4 @@
+row_number,name,email,age,errors
+4,Mary,,21,'email' is required.
+5,Peter,peter@example.com,,'age' is required.
+6,,grace@example.com,24,'name' is required.
