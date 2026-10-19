@@ -266,3 +266,9 @@ Developed as part of the Week 3 project: Typed CLI Toolkit.
 
 
 
+
+## Demo Video
+
+Watch the screen recording demonstrating the DataCheck CLI Toolkit, including CSV validation, clean and invalid output generation, and automated tests.
+
+[Watch the DataCheck CLI Demo](https://drive.google.com/file/d/1gUUMC6t9lLaSepbsZfAax_Oh8c-eVoaC/view?usp=sharing)
